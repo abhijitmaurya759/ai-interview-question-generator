@@ -1,0 +1,10 @@
+What is REST API?
+Explain Django ORM.
+What is React Virtual DOM?
+Explain Spring Boot architecture.
+What is RCC in civil engineering?
+Explain structural load calculation.
+What is financial forecasting?
+Explain machine learning overfitting.
+What is Docker?
+Explain Kubernetes.
